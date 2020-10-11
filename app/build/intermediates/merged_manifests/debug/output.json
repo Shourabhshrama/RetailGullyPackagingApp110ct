@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.example.retailgully_packagingapp",
         "split": "",
-        "minSdkVersion": "16"
+        "minSdkVersion": "19"
       }
     }
   ]

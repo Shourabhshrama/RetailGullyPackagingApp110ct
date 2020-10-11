@@ -1,0 +1,55 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<ImageView
+    android:layout_width="wrap_content"
+    android:src="@drawable/arrow"
+    android:id="@+id/iv_back_store"
+    android:layout_marginLeft="8dp"
+    android:layout_centerVertical="true"
+    android:layout_alignParentLeft="true"
+    android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/iv_back_store"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:fontFamily="@font/galdeano"
+        android:text="Stores"
+        android:textColor="@color/gray"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/subTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:layout_marginLeft="10dp"
+        android:text=""
+        android:textSize="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/offer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"
+        android:drawablePadding="5dp"
+        android:fontFamily="@font/galdeano"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="Offer"
+        android:textColor="@color/gray"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

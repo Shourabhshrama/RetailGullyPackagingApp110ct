@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sai\\.gradle\\caches\\transforms-2\\files-2.1\\d43342feff984a853cf830b41af8f506\\material-1.2.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\sai\\.gradle\\caches\\transforms-2\\files-2.1\\9800126fef9317b2b7c39ebc44d9a66d\\material-1.2.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

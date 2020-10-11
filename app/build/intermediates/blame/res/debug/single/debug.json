@@ -68,12 +68,12 @@
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_printshop_24.png.flat",
-        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_printshop_24.png"
-    },
-    {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_printshop_24.png.flat",
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_printshop_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_printshop_24.png.flat",
+        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_printshop_24.png"
     },
     {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_order_detail.xml.flat",
@@ -308,12 +308,12 @@
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_printshop_24.xml.flat",
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_printshop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_print_24.png.flat",
@@ -340,12 +340,12 @@
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_drop_down_24.png"
     },
     {
-        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
-        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_printshop_24.png.flat",
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_printshop_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_print_24.png.flat",
@@ -358,6 +358,10 @@
     {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_right_24.png.flat",
         "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spalsh_background2.xml.flat",
+        "source": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\src\\main\\res\\drawable\\spalsh_background2.xml"
     },
     {
         "merged": "C:\\Users\\sai\\AndroidStudioProjects\\RetailGullyPackagingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_check_circle_outline_24.png.flat",

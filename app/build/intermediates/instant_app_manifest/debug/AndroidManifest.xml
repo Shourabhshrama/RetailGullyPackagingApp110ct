@@ -6,11 +6,14 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="30" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
 
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
         android:name="androidx.multidex.MultiDexApplication"
@@ -42,6 +45,14 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.mazenrashed.printooth.ui.ScanningActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="com.mazenrashed.universalbluethootprinter.ui.ScanningActivity.LAUNCH" />
+            </intent-filter>
+        </activity>
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
